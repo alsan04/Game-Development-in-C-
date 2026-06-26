@@ -9,6 +9,9 @@ inline void kilogram(float pound)
 int main()
 {
     float pound;
+    float pound;
+    float kg;
+    
     cout << "Enter weight in pounds: ";
     cin >> pound;
     kilogram(pound);
